@@ -5,6 +5,11 @@ body {
     overflow-x: hidden;
     
 }
+@media (max-width: 600px) {
+    body {
+        display: none; /* Cache tout le contenu du body */
+    }
+}
 .main-police { /* CLASS POLICE SITE */
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: white;
