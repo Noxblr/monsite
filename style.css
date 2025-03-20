@@ -32,8 +32,6 @@ body {
     background-image: url("image/black\ and\ white.jpg");
     background-size: cover;
     background-position: center 82%;
-    z-index: -1;
-    filter: brightness(60%);
 }
 /*top container*/
 #top-container {
